@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **heno-1010/heno-1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub profile!
+
+## About Me
+I’m a student learning C# with a focus on WPF
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heno-1010)](https://github.com/anuraghazra/github-readme-stats)

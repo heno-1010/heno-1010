@@ -18,4 +18,4 @@ Welcome to my GitHub profile!
 
 ## About Me
 I’m a student learning C# with a focus on WPF<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heno-1010)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heno-1010&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

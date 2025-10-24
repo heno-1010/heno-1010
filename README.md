@@ -19,3 +19,4 @@ Welcome to my GitHub profile!
 ## About Me
 I’m a student learning C# with a focus on WPF<br>
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heno-1010&layout=compact&show_icons=true&theme=cobalt)

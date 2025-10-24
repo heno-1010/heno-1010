@@ -18,4 +18,4 @@ Welcome to my GitHub profile!
 
 ## About Me
 I’m a student learning C# with a focus on WPF<br>
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5&show_icons=true&theme=merko)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5&show_icons=true&theme=onedark)

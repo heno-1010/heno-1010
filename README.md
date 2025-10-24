@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile!
 
 ## About Me
-I’m a student learning C# with a focus on WPF
+I’m a student learning C# with a focus on WPF<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heno-1010)](https://github.com/anuraghazra/github-readme-stats)

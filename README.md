@@ -22,13 +22,3 @@ I’m a student learning C# with a focus on WPF<br>
 ### GitHub Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heno-1010&layout=compact&show_icons=true&theme=cobalt)
-
-## English Version / 英語版
-<a id="english-version"></a>
-
-Hi, I'm への, a C# enthusiast and typing enthusiast. Currently, I'm studying for the Fundamental Information Technology Engineer Exam.
-
-## 日本語版 / Japanese Version
-<a id="日本語版"></a>
-
-こんにちは、へのです。C#とタイピングが得意です。現在、基本情報技術者試験を勉強中です。

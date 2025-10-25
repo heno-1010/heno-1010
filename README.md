@@ -23,11 +23,6 @@ I’m a student learning C# with a focus on WPF<br>
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heno-1010&layout=compact&show_icons=true&theme=cobalt)
 
-# Choose Your Language / 言語を選択
-
-- [English Version](#english-version)
-- [日本語版](#日本語版)
-
 ## English Version / 英語版
 <a id="english-version"></a>
 

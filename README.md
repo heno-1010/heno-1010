@@ -21,9 +21,9 @@ I'm a student aspiring to be an engineer.
 Currently, I’m learning C# with a focus on WPF.
 <br>
 
-### Languages
-![C#](https://img.shields.io/badge/C#-3776AB?style=for-the-badge&logo=C#&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### Skills
+- C#(WPF, Console Applications)
+- Java
 <br>
 
 ### GitHub Status

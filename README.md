@@ -21,6 +21,11 @@ I'm a student aspiring to be an engineer.
 Currently, I’m learning C# with a focus on WPF.
 <br>
 
+### Languages
+![C#](https://img.shields.io/badge/C#-3776AB?style=for-the-badge&logo=C#&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<br>
+
 ### GitHub Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heno-1010&layout=compact&show_icons=true&theme=cobalt)

@@ -24,7 +24,6 @@ Currently, I’m learning C# with a focus on WPF.
 ### Skills
 - C#(WPF, Console Applications)
 - Java
-<br>
 
 ### GitHub Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)

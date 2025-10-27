@@ -1,4 +1,4 @@
-# Hi!👋 Welcome to my GitHub!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993CFF&background=FFFFFF00&width=435&lines=Hi!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <!--
 **heno-1010/heno-1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +28,4 @@ Currently, I’m learning C# with a focus on WPF.
 ### GitHub Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heno-1010&layout=compact&show_icons=true&theme=cobalt)
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=heno-1010&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -28,5 +28,6 @@ Currently, I’m learning C# with a focus on WPF.
 ### GitHub Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heno-1010&layout=compact&show_icons=true&theme=cobalt)
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=heno-1010&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -23,8 +23,8 @@ Currently, I’m learning C# with a focus on WPF.
 <br>
 
 ### Skills
-- C#(WPF, Console Applications)
-- Java
+[![Programming Languages](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+
 
 ### GitHub Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)

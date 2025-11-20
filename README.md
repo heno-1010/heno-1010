@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-I'm a student aspiring to be an engineer.  
+I'm Heno, a student aspiring to be an engineer.
 Currently, I’m learning C# with a focus on WPF.
 <br>
 

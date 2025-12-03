@@ -27,7 +27,7 @@ Currently, I’m learning C# with a focus on WPF.
 [![Programming Languages](https://skillicons.dev/icons?i=cs,dotnet,java)](https://skillicons.dev)
 
 ### Softwares
-[![Programming Languages](https://skillicons.dev/icons?i=windows,visualstudio)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=windows,visualstudio,eclipse)](https://skillicons.dev)
 
 ### GitHub Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)

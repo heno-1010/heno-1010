@@ -25,7 +25,7 @@ Currently, I’m learning C# with a focus on WPF.
 <br>
 
 ### Languages
-[![Programming Languages](https://skillicons.dev/icons?i=cs,dotnet,java)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 ### Softwares
 [![Programming Languages](https://skillicons.dev/icons?i=windows,visualstudio,eclipse)](https://skillicons.dev)

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm heno.
 I'm a student aspiring to be an engineer. 
 
-Currently, I’m learning C# with a focus on WPF.
+Currently, I’m learning C# with a focus on WPF and Avalonia.
 <br>
 
 ### Languages

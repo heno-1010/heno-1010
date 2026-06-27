@@ -32,6 +32,5 @@ Currently, I’m learning C# with a focus on WPF and Avalonia.
 
 ### GitHub Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heno-1010&layout=compact&show_icons=true&theme=cobalt)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=heno-1010&theme=tokyonight)](https://git.io/streak-stats)

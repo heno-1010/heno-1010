@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 ## 👋 About Me
-I'm heno.  
-I'm a student aspiring to be an engineer.   
+I'm heno.I'm a student aspiring to be an engineer.   
 Currently, I’m learning C# with a focus on WPF and Avalonia.
 
 ### 📝 Blog

@@ -17,20 +17,22 @@ Here are some ideas to get you started:
 -->
 
 
-## About Me
-I'm heno.
-I'm a student aspiring to be an engineer. 
-
+## 👋 About Me
+I'm heno.  
+I'm a student aspiring to be an engineer.   
 Currently, I’m learning C# with a focus on WPF and Avalonia.
-<br>
 
-### Languages
+### 📝 Blog
+I write about C#, WPF, Avalonia, and software development.  
+[https://henolog.pages.dev/](https://henolog.pages.dev/)
+
+### 💻 Languages
 [![Programming Languages](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
-### Softwares
+### 🛠️ Software
 [![Programming Languages](https://skillicons.dev/icons?i=windows,visualstudio)](https://skillicons.dev)
 
-### GitHub Status
+### 📊 GitHub Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=heno-1010&show_icons=true&theme=cobalt)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=heno-1010&theme=tokyonight)](https://git.io/streak-stats)
